@@ -22,8 +22,6 @@ I focused on answering practical analytics questions such as:
 
 ## My Role
 
-I completed this project independently as a student portfolio case study.
-
 My responsibilities included:
 - data loading and schema setup
 - writing all SQL exploration and analysis scripts
@@ -54,9 +52,7 @@ sql-data-analytics-project/
 |       |-- dim_products.csv
 |       `-- fact_sales.csv
 |-- docs/
-|   |-- Project Roadmap.pdf
 |   |-- Project Roadmap.png
-|   `-- Project_Notes_Sketches.pdf
 |-- scripts/
 |   |-- 00_init_database.sql
 |   |-- 01_database_exploration.sql
